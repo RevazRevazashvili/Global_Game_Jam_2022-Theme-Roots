@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/GrapplingHookSound.mp3-c230150ad479a4b39f4fdc54dcddb232.mp3str"
+
+[deps]
+
+source_file="res://assets/Sounds/GrapplingHookSound.mp3"
+dest_files=[ "res://.import/GrapplingHookSound.mp3-c230150ad479a4b39f4fdc54dcddb232.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

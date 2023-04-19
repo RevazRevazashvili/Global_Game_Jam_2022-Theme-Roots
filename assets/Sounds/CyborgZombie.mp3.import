@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/CyborgZombie.mp3-f64b04749b9235af61cefda507053a34.mp3str"
+
+[deps]
+
+source_file="res://assets/Sounds/CyborgZombie.mp3"
+dest_files=[ "res://.import/CyborgZombie.mp3-f64b04749b9235af61cefda507053a34.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

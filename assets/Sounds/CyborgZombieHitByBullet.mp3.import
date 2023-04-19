@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/CyborgZombieHitByBullet.mp3-a7786cf788bbbb025f5fe5e6a3b4c753.mp3str"
+
+[deps]
+
+source_file="res://assets/Sounds/CyborgZombieHitByBullet.mp3"
+dest_files=[ "res://.import/CyborgZombieHitByBullet.mp3-a7786cf788bbbb025f5fe5e6a3b4c753.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

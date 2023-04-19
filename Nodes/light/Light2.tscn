@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://assets/Light/light.png" type="Texture" id=1]
+[ext_resource path="res://assets/Light/crystal-2.png" type="Texture" id=2]
+
+[node name="Sprite" type="Sprite"]
+position = Vector2( 7.62939e-06, 3 )
+scale = Vector2( 5.65385, 5.35 )
+texture = ExtResource( 2 )
+
+[node name="Light2D" type="Light2D" parent="."]
+position = Vector2( -0.176872, -0.93458 )
+scale = Vector2( 0.759433, 0.759433 )
+texture = ExtResource( 1 )

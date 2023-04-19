@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Plant_Amosvla.wav-c8837a37e05c6a9bbfe4f9d78b15330c.sample"
+
+[deps]
+
+source_file="res://assets/SFX/Plant_Amosvla.wav"
+dest_files=[ "res://.import/Plant_Amosvla.wav-c8837a37e05c6a9bbfe4f9d78b15330c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/MainSongSerious.mp3-b045204f1167112c477a45ffa679c65c.mp3str"
+
+[deps]
+
+source_file="res://assets/Sounds/MainSongSerious.mp3"
+dest_files=[ "res://.import/MainSongSerious.mp3-b045204f1167112c477a45ffa679c65c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
